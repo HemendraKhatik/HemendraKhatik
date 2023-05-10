@@ -2,7 +2,7 @@
 
 Self-taught full-stack developer, who loves building cool tech products.
 
-- 🔭 I’m currently working on ReactJS And React Native.
+- I can work with any JavaScript/TypeScript based library or framework.
 
 - 💬 Ping me [here](https://www.instagram.com/aamchora/)
 - [Portfolio](https://www.aamchora.space)
