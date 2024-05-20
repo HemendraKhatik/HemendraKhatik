@@ -1,7 +1,6 @@
 ### Hi there, I'm Hemendra 👋
 
-Self-taught full-stack developer, who loves building cool tech products.
-
+I transform documented ideas into functioning scalable tech products.
 - I can work with any JavaScript/TypeScript based library or framework.
 
 - 💬 Ping me [here](https://www.instagram.com/aamchora/)
