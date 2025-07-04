@@ -2,4 +2,4 @@
 
 I transform documented ideas into functioning scalable tech products.
 
-- 💬 Ping me [here](https://www.instagram.com/aamchora/)
+- Reach me at: hi@aamchora.space
